@@ -84,6 +84,10 @@ class CS342ExampleApplicationDelegate: SpeziAppDelegate {
     private var healthKit: HealthKit {
         HealthKit {
             CollectSample(
+                HKQuantityType(.heartRate),
+                deliverySetting: .anchorQuery(.automatic)
+            )
+            CollectSample(
                 HKQuantityType(.stepCount),
                 deliverySetting: .anchorQuery(.automatic)
             )
