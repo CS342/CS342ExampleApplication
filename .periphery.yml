@@ -1,15 +1,15 @@
 #
-# This source file is part of the Stanford Spezi Template Application open-source project
+# This source file is part of the CS342 Example Application based on the Stanford Spezi Template Application project
 #
-# SPDX-FileCopyrightText: 2023 Stanford University
+# SPDX-FileCopyrightText: 2025 Stanford University
 #
 # SPDX-License-Identifier: MIT
 #
 
-project: TemplateApplication.xcodeproj
+project: CS342ExampleApplication.xcodeproj
 schemes:
-- TemplateApplication
+- CS342ExampleApplication
 targets:
-- TemplateApplication
-- TemplateApplicationTests
-- TemplateApplicationUITests
+- CS342ExampleApplication
+- CS342ExampleApplicationTests
+- CS342ExampleApplicationUITests

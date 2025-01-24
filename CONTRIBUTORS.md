@@ -1,14 +1,14 @@
 <!--
 
-This source file is part of the Stanford Spezi Template Application open-source project
+This source file is part of the CS342 Example Application based on the Stanford Spezi Template Application project
 
-SPDX-FileCopyrightText: 2023 Stanford University
+SPDX-FileCopyrightText: 2025 Stanford University
 
 SPDX-License-Identifier: MIT
 
 -->
 
-Template Application Contributors
+CS342 Example Application Contributors
 =================================
 
 * [Paul Schmiedmayer](https://github.com/PSchmiedmayer)
