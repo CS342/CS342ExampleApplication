@@ -21,7 +21,7 @@ struct Welcome: View {
             areas: [
                 OnboardingInformationView.Content(
                     icon: {
-                        Image(systemName: "apps.iphone")
+                        Image(systemName: "staroflife.fill")
                             .accessibilityHidden(true)
                     },
                     title: "The Spezi Framework",
