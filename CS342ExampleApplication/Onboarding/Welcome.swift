@@ -21,7 +21,7 @@ struct Welcome: View {
             areas: [
                 OnboardingInformationView.Content(
                     icon: {
-                        Image(systemName: "cat.fill")
+                        Image(systemName: "staroflife.fill")
                             .accessibilityHidden(true)
                     },
                     title: "Cats are great!",
