@@ -81,6 +81,16 @@
         }
       }
     },
+    "CS342 Example Application" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spezi\nCS342 Example Application"
+          }
+        }
+      }
+    },
     "Grant Access" : {
       "localizations" : {
         "en" : {
@@ -321,16 +331,6 @@
         }
       }
     },
-    "CS342 Example Application" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Spezi\nCS342 Example Application"
-          }
-        }
-      }
-    },
     "Start Questionnaire" : {
       "localizations" : {
         "en" : {
@@ -386,7 +386,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "The Spezi Framework builds the foundation of this application."
+            "value" : "Spezi is nice, but cats are nicer … they don’t care about SwiftLint!"
           }
         }
       }

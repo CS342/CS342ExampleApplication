@@ -21,10 +21,14 @@ struct Welcome: View {
             areas: [
                 OnboardingInformationView.Content(
                     icon: {
+<<<<<<< HEAD
                         Image(systemName: "staroflife.fill")
+=======
+                        Image(systemName: "cat.fill")
+>>>>>>> c01cd8b3f4215dcbe9a6803691bc60de14e8af8d
                             .accessibilityHidden(true)
                     },
-                    title: "The Spezi Framework",
+                    title: "Cats are great!",
                     description: "WELCOME_AREA1_DESCRIPTION"
                 ),
                 OnboardingInformationView.Content(
