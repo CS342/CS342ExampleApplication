@@ -21,10 +21,10 @@ struct Welcome: View {
             areas: [
                 OnboardingInformationView.Content(
                     icon: {
-                        Image(systemName: "apps.iphone")
+                        Image(systemName: "cat.fill")
                             .accessibilityHidden(true)
                     },
-                    title: "The Spezi Framework",
+                    title: "Cats are great!",
                     description: "WELCOME_AREA1_DESCRIPTION"
                 ),
                 OnboardingInformationView.Content(
