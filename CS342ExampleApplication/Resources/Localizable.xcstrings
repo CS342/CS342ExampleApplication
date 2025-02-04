@@ -41,6 +41,9 @@
         }
       }
     },
+    "Cats are great!" : {
+
+    },
     "Close" : {
       "localizations" : {
         "en" : {
@@ -347,16 +350,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Swift Package Manager"
-          }
-        }
-      }
-    },
-    "The Spezi Framework" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "The Spezi Framework"
           }
         }
       }
