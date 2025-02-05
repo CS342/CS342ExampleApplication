@@ -100,7 +100,7 @@ extension XCUIApplication {
             buttons["Logout"].tap()
         }
         
-        XCTAssertTrue(buttons["Signup"].exists)
+        XCTAssertTrue(buttons["Signup"].waitForExistence(timeout: 2))
         buttons["Signup"].tap()
 
 
